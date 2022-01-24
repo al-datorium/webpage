@@ -20,3 +20,14 @@
 </body>
 </html>
 ```
+
+```markdown
+<!DOCTYPE html>
+<html>
+<body>
+  
+<button type="button" onclick="alert('You pressed the button!')">Click me!</button>
+
+</body>
+</html>
+```
